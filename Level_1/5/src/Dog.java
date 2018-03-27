@@ -7,6 +7,6 @@ public class Dog {
 		System.out.println("( 0 )\"\"\"\\");
 		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
-        
+     
     }
 }
