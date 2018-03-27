@@ -6,9 +6,9 @@ public class Print {
 		String a,b,c;
 		Scanner sc = new Scanner(System.in);
 		
-		a = sc.next();
-		b = sc.next();
-		c = sc.next();
+		a = sc.nextLine();
+		b = sc.nextLine();
+		c = sc.nextLine();
 		
 		System.out.println(a);
 		System.out.println(b);
